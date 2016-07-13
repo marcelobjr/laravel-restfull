@@ -39,7 +39,6 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5 RestFull</div>
-                <h2>By SisCentral</h2>
             </div>
         </div>
     </body>
